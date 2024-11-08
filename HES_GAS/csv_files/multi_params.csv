@@ -1,0 +1,4 @@
+meter_number,command_name,param1,param2,param3
+724000017,SET ZONE LIMIT,-10,1000,100
+724000017,Set Monthly Free Gas,15,11,2024-11-09
+724000017,Set Monthly Emi,200,11,2024-11-09

@@ -1,0 +1,4 @@
+meter_number,command_name,param
+724000017,Sync Meter Reading,123.123
+724000017,Set Communication Frequency,Wednesday
+724000017,Set Friendly Weekday,Wednesday
